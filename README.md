@@ -10,5 +10,5 @@ To add a database, go to "localhost:8080/phpmyadmin". Here you can delete accoun
 Make sure all stack services, and networks are running.
 To view the login page, open up a browser window and type in "localhost:8080/LoginPage/index.php". 
 
-NOTE: In order for the "forget/reset password" function to work, we need a mail server to send a link to the user's email to reset their password. This part is incomplete. 
+NOTE: In order for the "forget/reset password" function to work, we need a mail server to send a link to the user's email to reset their password.
 
